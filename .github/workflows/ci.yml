@@ -2,7 +2,7 @@ name: Faleproxy CI
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [ main, master, edtechmilan-hw9 ]
   pull_request:
     branches: [ main, master ]
 
